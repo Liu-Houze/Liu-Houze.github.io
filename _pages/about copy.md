@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /a
 title: "Welcome my friend"
 excerpt: "About me"
 author_profile: true
