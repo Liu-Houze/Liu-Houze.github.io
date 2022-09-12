@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. New York University, Computer Science, 2021-2023
+* B.S. New York University, Computer Science, 2017-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+<br/><img src='/images/500x300.png'>
+* Summer 2022: Sigma Computing, Software Development Intern
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
