@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Houze Liu / Sample page"
+title                    : "Houze Liu / Main page"
 title_separator          : "-"
 name                     : &name "Houze Liu"
 description              : &description "personal description"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Houze Liu"
-  avatar           : "bio-Houze.png"
-  bio              : "We are all in the gutter, but some of us are looking at the stars"
+  avatar           : "bio-Houze.jpg"
+  bio              : "A NYU CS master Student"
   location         : "Brooklyn, NY"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "hl2979@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Her-shey/houze"
+  github           : "Her-shey"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
