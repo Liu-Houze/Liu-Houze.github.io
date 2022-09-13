@@ -16,44 +16,23 @@ Education
 
 Work experience
 ======
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/500x300.png' width="40" height="40">
 * Summer 2022: Sigma Computing, Software Development Intern
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * San Francisco
+  * Created a GCP development environment to support reliable full-stack application development and end-to-end tests.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Alibaba Group, Data Analytics Intern
+  * Shanghai
+  * Built a reliable full-stack application and deep learning modules to support emotion classification on user comments. 
+
+* Summer 2019: PwC, Technology Consulting Intern
+  * Shanghai
+  * Worked on building infrastructure services to collect, process, and analyze market data and financing activities for about 30k+ startups with their market share and investors. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Kubernetes
+* Terraform
+* Django
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
