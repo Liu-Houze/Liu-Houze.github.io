@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-<br/><img src='/images/500x300.png' width="40" height="40">
-* Summer 2022: Sigma Computing, Software Development Intern
+
+* Summer 2022: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>Sigma Computing, Software Development Intern
   * San Francisco
   * Created a GCP development environment to support reliable full-stack application development and end-to-end tests.
 
